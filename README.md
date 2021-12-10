@@ -7,11 +7,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
 	<body style="background-color:grey;">
-		<h1>My Website for the Mid-Term project</h1>
+		<h1>My Website for the Final Project</h1>
 		<h2><u>IT-1000</u></h2>
 		<p>
 		<b>My name is Jake Lalumandier</b>
-		<em>and I have decided to write a bit about myself from the past couple years because this project is rather open ended it seems.</em><br>
+		<em>and I have decided to write a bit about myself from the past couple years.</em><br>
 		<br>The second page is going to be about my highschool, the third page is going to be about my schools athletic success in 2019, the fourth page is going to be about my old college, and the final page is going to be my dog.
 		</p>
 		<br>
